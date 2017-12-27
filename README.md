@@ -1,6 +1,6 @@
 # Slack TLP Emoji
 
-Upload a [Custom Slack Emoji](https://get.slack.help/hc/en-us/articles/206870177-Create-custom-emoji) with this help. Learn about the [TLP system](https://www.us-cert.gov/tlp).
+Upload these TLP emoji's into the [Custom Slack Emoji](https://get.slack.help/hc/en-us/articles/206870177-Create-custom-emoji) page. Learn about the [TLP system](https://www.us-cert.gov/tlp).
 
 | Color  | When should it be used?   | How may it be shared?  |
 |---|---|---|
